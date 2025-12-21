@@ -27,7 +27,8 @@
 // Merkle direction:
 //   dir = 0 => sibling on RIGHT, parent = H(cur, sib)
 //   dir = 1 => sibling on LEFT,  parent = H(sib, cur)
-//
+// AI writtened
+
 
 use ff::PrimeField;
 use halo2_proofs::{

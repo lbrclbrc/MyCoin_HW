@@ -1,4 +1,5 @@
 // zkcrypto/src/lib.rs
+// AI writtened
 
 use pyo3::prelude::*;
 use pyo3::wrap_pyfunction;

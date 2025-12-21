@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo3_good.py
 #
 # Demo 3 (GOOD):
@@ -9,6 +8,7 @@
 #
 # This demo hides low-level Node/Client/zk logs and prints a compact story with
 # a short explanation of the zk proof used in AcctToAnon.
+# The introduction above is written by AI
 
 import os
 import sys

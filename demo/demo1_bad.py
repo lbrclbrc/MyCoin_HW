@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo1_bad.py
 #
 # Demo 1 (BAD): examples of BlueApply2 failing on the node side.
@@ -27,6 +26,7 @@
 # These two scenarios are meant to show how the protocol defends itself
 # against missing setup (no BlueApply1) and against a forged public
 # input in BlueApply2.
+# The introduction above is written by AI
 
 import os
 import sys

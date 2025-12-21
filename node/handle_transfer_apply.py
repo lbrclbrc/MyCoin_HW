@@ -13,6 +13,8 @@
 # Return values:
 #   - On success: {"ok": True, "new_block": {...}}
 #   - On failure: {"ok": False, "err": "<reason>"}
+# 
+# The introduction above is written by AI.
 
 import json
 

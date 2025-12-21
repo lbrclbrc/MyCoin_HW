@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo2_good.py
 #
 # Demo 2 (GOOD):
@@ -9,6 +8,7 @@
 #
 # Internal logs from Node/Client/Rust zk-verifier are hidden in this demo.
 # Only high-level steps and transfer summaries are printed with [DEMO2] prefix.
+# The introduction above is written by AI
 
 import os
 import sys

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # client/apply_for_anon_pay.py
 # Apply for AnonPay (pay from an anonymous note to a public account).
 # Only builds the envelope and returns it; sending is handled elsewhere.

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo1_good.py
 #
 # Demo 1 (GOOD): BlueApply1 + BlueApply2
@@ -21,6 +20,8 @@
 #   You can run this file directly to see an end-to-end story for
 #   "blue account enrollment" without needing to know the internal
 #   details of Node or Client.
+#   The introduction above is written by AI
+
 
 import os
 import sys

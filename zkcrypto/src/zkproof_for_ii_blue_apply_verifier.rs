@@ -1,6 +1,7 @@
 // zkcrypto/src/zkproof_for_ii_blue_apply_verifier.rs
 // Verifier that never panics or raises: on any internal error it returns `false`.
 // Uses the same IiBlueApplyCircuit type from the generator to ensure vk shape matches.
+// AI writtened
 
 use ff::PrimeField;
 use halo2_proofs::{

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # tests/rust_api_tests/poseidon_hash_tests.py
 #
 # Poseidon hash tests (Python wrapper).

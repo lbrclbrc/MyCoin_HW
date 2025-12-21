@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo5_trace_anon_for_sk.py
 # Demo 5:
 #   1) Run demo4_good_test silently to build blockchain + Alice MASTER_SEED.

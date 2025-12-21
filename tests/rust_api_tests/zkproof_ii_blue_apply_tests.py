@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/zkproof_ii_blue_apply_tests.py
 #
 # Purpose:

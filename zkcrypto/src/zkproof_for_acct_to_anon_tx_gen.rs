@@ -10,6 +10,7 @@
 //
 // Public inputs layout unchanged:
 //   poseidon.output: row0=addr_fp, row1=anon_commit_fp, row2=val_fp, row3=nonce_fp
+// AI writtened
 
 use ff::PrimeField;
 use halo2_proofs::{

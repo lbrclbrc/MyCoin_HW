@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # client/core.py
 # Main Client implementation (without the concrete apply_for_blue logic).
 # The structure and style is kept close to the original client design.

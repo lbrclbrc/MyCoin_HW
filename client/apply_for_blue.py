@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # client/apply_for_blue.py
 # Build envelopes for BlueApply1 / BlueApply2.
 # These helpers use a client instance and its methods/fields to construct

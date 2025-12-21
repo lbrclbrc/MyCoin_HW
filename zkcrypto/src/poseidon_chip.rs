@@ -1,4 +1,6 @@
 // zkcrypto/src/poseidon_chip.rs
+// AI writtened
+
 use halo2_proofs::{
     circuit::{AssignedCell, Layouter, Region, Value},
     pasta::Fp,

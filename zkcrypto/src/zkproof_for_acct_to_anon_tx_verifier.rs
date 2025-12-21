@@ -1,6 +1,7 @@
 // zkcrypto/src/zkproof_for_acct_to_anon_tx_verifier.rs
 // Strong Verifier that never panics / raises: on any internal error it returns `false`.
 // Uses the same AcctToAnonTxCircuit type from the STRONG generator to ensure vk shape matches.
+// AI writtened
 
 use ff::PrimeField;
 use halo2_proofs::{

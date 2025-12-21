@@ -1,4 +1,3 @@
-# ================================
 # node/core.py
 # Core node implementation and request dispatching.
 # Includes support for:
@@ -7,7 +6,6 @@
 #   - Transfer
 #   - AcctToAnon
 #   - AnonPay
-# ================================
 
 from wrappers.poseidon_hash_wrapper import get_poseidon_hash
 from wrappers.pasta_ecc_wrapper import EccKeypair

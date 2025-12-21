@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo4_good.py
 #
 # Demo 4 (GOOD):
@@ -16,6 +15,7 @@
 #
 # The zk proof for AcctToAnon is not expanded in this demo (see demo3).
 # Here I focus on the zk proof used by AnonPay.
+# The introduction above is written by AI
 
 import os
 import sys

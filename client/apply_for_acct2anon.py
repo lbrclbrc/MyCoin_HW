@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # client/apply_for_acct2anon.py
 # Apply for AcctToAnon (move public account balance into the anonymous commitment pool).
 # Only builds the envelope and returns it; sending is handled elsewhere.

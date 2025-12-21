@@ -1,7 +1,7 @@
 // zkcrypto/src/pasta_ecc.rs
-//
 // Pasta Pallas curve support for key derivation and Schnorr-style signatures.
 // Exposes a bytes / bool interface to Python and hides internal structures.
+// AI writtened
 
 use pyo3::exceptions;
 use pyo3::prelude::*;

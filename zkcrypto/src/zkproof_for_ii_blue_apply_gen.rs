@@ -1,5 +1,7 @@
 // zkproof_for_ii_blue_apply_generator.rs
 // Poseidon/ECC-based circuit and proof generator for the ii_blue apply flow.
+// AI writtened
+
 use ff::PrimeField;
 use halo2_proofs::{
     circuit::{AssignedCell, Layouter, SimpleFloorPlanner, Value},

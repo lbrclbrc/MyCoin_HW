@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # tests/rust_api_tests/pasta_ecc_tests.py
 #
 # Basic Pasta (Bandersnatch-style) ECC wrapper tests.

@@ -2,6 +2,7 @@
 // Poseidon over the Pallas/Pasta field (Halo2 friendly).
 // - poseidon_hash_blocks(list[bytes32(be)]) -> bytes (32-byte, big-endian)
 // - get_pallas_modulus_py() -> hex string (big-endian)
+// AI writtened
 
 use pyo3::exceptions;
 use pyo3::prelude::*;

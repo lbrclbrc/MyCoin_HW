@@ -1,4 +1,5 @@
 // zkcrypto/src/ecc_chip.rs
+// AI writtened
 use ff::PrimeField;
 use halo2_proofs::{
     arithmetic::Field,

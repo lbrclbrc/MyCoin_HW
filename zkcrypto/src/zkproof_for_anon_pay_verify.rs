@@ -13,6 +13,7 @@
 // This verifier rebuilds vk from empty circuit (same as generator),
 // then runs halo2 verify_proof.
 //
+// AI writtened
 
 use ff::PrimeField;
 use halo2_proofs::{

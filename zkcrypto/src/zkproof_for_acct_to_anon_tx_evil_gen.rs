@@ -7,6 +7,7 @@
 //
 // This file DOES NOT depend on the normal GEN module.
 // We copy the exact *WEAK* circuit/config here so vk shape matches.
+// AI writtened
 
 use ff::PrimeField;
 use halo2_proofs::{

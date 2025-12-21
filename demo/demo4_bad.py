@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # demo/demo4_bad.py
 #
 # Demo 4 (BAD):
@@ -11,6 +10,7 @@
 #
 # Internal logs from Client / Node / Rust zk-verifier are hidden via run_silently.
 # Only short [DEMO4-BAD] messages and node responses are printed.
+# The introduction above is written by AI
 
 import os
 import sys

@@ -8,6 +8,9 @@
 #   - For existing accounts, replace None fields with safe on-chain defaults
 #     so that callers do not crash on None.
 
+# The introduction above is written by AI.
+
+
 from acct import Account
 from merkle_tree import MerkleTree
 from tools import short_hex
